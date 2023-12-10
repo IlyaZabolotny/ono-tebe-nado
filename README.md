@@ -1,4 +1,11 @@
-# s-chistogo-lista
-Проект "С чистого листа"
+# ono-tebe-nado
+Проект "Оно тебе надо"
 
-https://github.com/IlyaZabolotny/s-chistogo-lista
+
+stack: html, css
+
+
+grid, flexbox, semantic layout
+
+
+https://github.com/IlyaZabolotny/ono-tebe-nado
